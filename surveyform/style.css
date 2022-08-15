@@ -1,0 +1,14 @@
+.help-block{
+    font-size: x-small;
+    display: block;
+    text-align: left;
+}
+.checked{
+    color:orange;
+}
+.check{
+    text-align: center;
+}
+textarea{
+    width:100%;
+}
